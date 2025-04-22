@@ -1,13 +1,9 @@
 Orange HRM Automation Project 🧪
 
-This project automates the login and logout functionality of the [OrangeHRM demo site](https://opensource-demo.orangehrmlive.com/) using Python, Selenium, and unittest framework.
+This project automates the different functionality of the [OrangeHRM demo site](https://opensource-demo.orangehrmlive.com/) using Python, Selenium, and unittest framework.
 
-Software Testing Projects
-This repository contains a list of all the projects completed during my manual testing training. The projects were completed using a combination of manual testing techniques and test management tools.
 
  Project List
-
-
 
  Orange3.py :        Script for add employee test.  
  Orange2.py :        Main script for login automation. 
