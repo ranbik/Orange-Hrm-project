@@ -6,9 +6,13 @@ This project automates the different functionality of the [OrangeHRM demo site](
  Project List
 
  Orange3.py :        Script for add employee test. 
+ 
  Orange2.py :        Main script for login automation. 
+ 
  orange_POM_DDT.py:  Data-driven tests using POM. 
+ 
  XLUtils.py  :       Excel utility functions for test data. 
+ 
  MOCK_DATA.xlsx :    Test data file for orange orange_POM_DDT.py 
 
  Getting Started
