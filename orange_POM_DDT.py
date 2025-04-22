@@ -37,7 +37,7 @@ class  Add_employee_test(unittest.TestCase):
 
         self.login()
 
-        path = r"C:\Users\LENOVO\Downloads\MOCK_DATA (4).xlsx"
+        path = r"C:\Users\LENOVO\PycharmProjects\pythonProject\Orange-Hrm-project\MOCK_DATA (4).xlsx"
         rows = XLUtils.getrowcount(path, "data1")
 
         for r in range(3, rows + 1):
