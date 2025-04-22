@@ -1,20 +1,37 @@
-# Orange HRM Automation Project 🧪
+Orange HRM Automation Project 🧪
 
 This project automates the login and logout functionality of the [OrangeHRM demo site](https://opensource-demo.orangehrmlive.com/) using Python, Selenium, and unittest framework.
 
- Features
+Software Testing Projects
+This repository contains a list of all the projects completed during my manual testing training. The projects were completed using a combination of manual testing techniques and test management tools.
 
-- Automated login with valid credentials
-- Profile dropdown interaction
-- Secure logout verification
-- Uses explicit waits for stable element interaction
-- Built using Python's unittest module
+ Project List
 
- Technologies Used
+| File Name | Description |
+|--------------|-------------|------------|
+| Orange3.py   | script for add employee test.  | 
+| Orange2.py   |  Main script for login automation. |
+| orange_POM_DDT.py  | Data-driven tests using POM. | 
+| XLUtils.py   | Excel utility functions for test data. |
+| MOCK_DATA.xlsx| Test data file for orange orange_POM_DDT.py |
 
-- Python 3.x
-- Selenium WebDriver
-- GeckoDriver (for Firefox)
-- unittest (built-in Python framework)
+ Getting Started
+
+To view the details of each project, simply click on the project name in the table above. The project page will contain a brief description of the project as well as a list of tools used to complete the project.
+
+ Contributing
+
+If you have any feedback or suggestions for improvements, please feel free to open an issue or pull request.
+
+
+
+
+
+
+
+Project name: 
+What.
+
+dad
 
 
